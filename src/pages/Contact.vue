@@ -1,17 +1,15 @@
 <template>
   <div>
-    <NavBar />
-    <router-view />
+      This is the Contact page
   </div>
 </template>
 
 <script>
-import NavBar from '@/components/NavBar'
 
 export default {
-  name: 'App',
+  name: 'Contact',
   components: {
-    NavBar
+    
   }
 }
 </script>
