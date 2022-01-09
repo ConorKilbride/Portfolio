@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "VueDo",
+        "description": "My first Vue.js todo app",
+        "website": "",
+        "tags": ["Vue"],
+        "images": ["vuedo.png"],
+        "date": "2021",
+        "demo": "vue-do",
+        "links": {
+            "github": "https://github.com/ConorKilbride"
+        }
+    },
+    {
+        "id": 2,
+        "title": "VueGiph",
+        "description": "My first Vue.js giph app",
+        "website": "",
+        "tags": ["Vue", "Axios"],
+        "images": ["GiphyImage.jpg"],
+        "date": "2021",
+        "demo": "vue-giph",
+        "links": {
+            "github": "https://github.com/ConorKilbride/vue-giph"
+        }
+    },
+    {
+        "id": 3,
+        "title": "College API App",
+        "description": "my first college api app",
+        "website": "https://flamboyant-hermann-a0a203.netlify.app/",
+        "tags": ["Vue", "Axios"],
+        "images": ["CollegeAppImage.jpg"],
+        "date": "2021",
+        "demo": "vue-college",
+        "links": {
+            "github": "https://github.com/ConorKilbride/FED-CA2-College-API"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Rest Countries",
+        "description": "CA1 connect to a rest API",
+        "website": "https://angry-fermat-0c4bde.netlify.app/",
+        "tags": ["Vue", "Axios"],
+        "images": ["CollegeAppImage.jpg"],
+        "date": "2021",
+        "demo": "vue-countries",
+        "links": {
+            "github": "https://github.com/ConorKilbride/ca1-example"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Sample project",
+        "description": "My first sample project",
+        "website": "",
+        "tags": ["Vue", "Axios"],
+        "images": ["vuegiph.png"],
+        "date": "2021",
+        "demo": "",
+        "links": {
+            "github": ""
+        }
+    },
+    {
+        "id": 6,
+        "title": "Example project 2",
+        "description": "my second example",
+        "website": "",
+        "tags": ["Vue", "Axios"],
+        "images": ["vuegiph.png"],
+        "date": "2021",
+        "demo": "",
+        "links": {
+            "github": ""
+        }
+    }
+]
